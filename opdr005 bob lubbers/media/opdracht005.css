@@ -1,0 +1,89 @@
+body{
+background: url(main_bg2.png) repeat center;
+margin: 0px 0px 50px 0px;
+padding: 0px 0px 0px 0px;
+text-align: center;
+}
+
+div#maincontainer{
+margin: 0 auto 0 auto;
+width: 1000px;
+text-align: left;
+font-family: sans-serif;
+}
+
+div#header{
+background: url(header2.png) no-repeat top left;
+padding: 10px 0 10px 0;
+margin: 0px 0px 0px -5px;
+width: 1000px;
+height: 235px;
+text-align: right;
+}
+
+div#navigatie{
+background: url(nav_boven2.png) no-repeat ;
+padding: 75px 0 0 25px;
+float: left;
+width: 220px;
+height: 300px;
+}
+
+div#content{
+background: url(h1_2.png) no-repeat top;
+padding: 150px 75px 0px 250px;
+margin: 0px 0px 0px 145px;
+width: 600px;
+height: 700px;
+}
+
+div#footer{
+color: #5F9EA0;
+text-align: left;
+width: 100%;
+height: 20px;
+font-size: 0.8em;
+padding: 10px 0px 0px 10px;
+}
+
+p{
+color: #34495e;
+margin: 0px 125px 0px -100px;
+background: url(bg_p2.png) no-repeat center bottom;
+padding: 20px 0px 45px 0px;
+}
+
+
+ul{
+color: #ecf0f1;
+margin: 0px 150px 0px 150px;
+padding: 75px 70px 0px 0px;
+list-style: none;
+}
+
+li.new{
+display: inline;
+margin: 10px 0 0px 0px;
+}
+
+ul.new{
+background: url(nav_onder2.png) no-repeat bottom left;
+padding: 20px 0px 100px 30px;
+margin: 5px;
+list-style: url(icon_page.png);
+}
+
+li{
+padding: 0px 0px 10px 0px;
+}
+
+
+ul.new2{
+padding: 0px 0px 0px 0px;
+margin: 10px 0 0 0;
+}
+
+ul.header{
+padding: 65px 0px 10px 0px;
+}
+
